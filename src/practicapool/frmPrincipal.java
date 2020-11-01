@@ -347,5 +347,6 @@ public class frmPrincipal extends javax.swing.JFrame {
     private javax.swing.JRadioButton rb99;
     private javax.swing.JTable tabla_datos;
     public static javax.swing.JTextArea txtNumeros;
+    //uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuw (Miguel Angel Vazquez Pech)
     // End of variables declaration//GEN-END:variables
 }
